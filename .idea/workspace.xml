@@ -6,11 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b286d14a-fcb3-4f3d-b630-4160130b68f5" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/yaya/o2o/dao/ShopDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/mapper/ShopDao.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="b286d14a-fcb3-4f3d-b630-4160130b68f5" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -595,7 +591,7 @@
       <workItem from="1539599438125" duration="2444000" />
       <workItem from="1539605663511" duration="398000" />
       <workItem from="1539606470161" duration="16314000" />
-      <workItem from="1539699456863" duration="9104000" />
+      <workItem from="1539699456863" duration="9221000" />
     </task>
     <servers />
   </component>
@@ -629,7 +625,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43458000" />
+    <option name="totallyTimeSpent" value="43575000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1865" height="1080" extended-state="6" />
