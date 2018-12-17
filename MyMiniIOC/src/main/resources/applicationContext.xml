@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+    <bean id = "dao" class="com.dao.OrderDao">
+    </bean>
+
+    <bean id = "service" class="com.service.OrderService">
+        <constructor-arg ref="dao" />
+    </bean>
+</beans>
